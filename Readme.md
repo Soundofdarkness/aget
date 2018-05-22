@@ -1,4 +1,4 @@
-# 🔥 LGET - Cross Platform wget
+# 🔥 AGET - Cross Platform wget
 #### Blazing Fast** Command line Downloader
 
  ** its your internet not mine :)
