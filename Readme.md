@@ -1,19 +1,19 @@
-# 🔥 NGET - Cross Platform wget
+# 🔥 LGET - Cross Platform wget
 #### Blazing Fast** Command line Downloader
 
  ** its your internet not mine :)
 ## Install
 
 ```bash
-$ npm install -g nget
+$ npm install -g lget
 ```
 
 ## Usage
 
 ```bash
-$ nget
+$ lget
 
-  Usage: nget <options> [url]
+  Usage: lget <options> [url]
 
   Options:
 

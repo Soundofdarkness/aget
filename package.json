@@ -1,5 +1,5 @@
 {
-  "name": "nget",
+  "name": "lget",
   "version": "1.0.0",
   "description": "Simple Command line wget-alternative",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "Node",
     "HTTP"
   ],
-  "bin": "./bin/nget.js",
+  "bin": "./bin/lget.js",
   "author": "Laurelianae <elerianae@gmail.com>",
   "license": "MIT",
   "devDependencies": {
