@@ -24,7 +24,7 @@ $ nget
 
 ## Example
 
-![Example](images\example.gif)
+![Example](images/example.gif)
 
 ## License
 
