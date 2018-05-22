@@ -29,5 +29,5 @@
     "request": "^2.87.0",
     "request-progress": "^3.0.0"
   },
-  "repository": "github:soundofdarkness/nget"
+  "repository": "github:soundofdarkness/lget"
 }
