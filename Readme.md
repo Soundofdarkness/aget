@@ -1,4 +1,11 @@
+
 # 🔥 AGET - Cross Platform wget
+[![npm](https://img.shields.io/npm/v/aget.svg?style=flat-square)](https://www.npmjs.com/package/aget)
+[![npm](https://img.shields.io/npm/dt/aget.svg?style=flat-square)](https://www.npmjs.com/package/aget)
+[![GitHub tag](https://img.shields.io/github/tag/soundofdarkness/aget.svg?style=flat-square)](https://github.com/Soundofdarkness/aget)
+[![npm](https://img.shields.io/npm/l/aget.svg?style=flat-square)](https://www.npmjs.com/package/aget)
+
+
 #### Blazing Fast** Command line Downloader
 
  ** its your internet not mine :)
