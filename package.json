@@ -1,6 +1,6 @@
 {
   "name": "lget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Command line wget-alternative",
   "main": "index.js",
   "scripts": {
