@@ -1,5 +1,5 @@
 {
-  "name": "lget",
+  "name": "aget",
   "version": "1.0.1",
   "description": "Simple Command line wget-alternative",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "Node",
     "HTTP"
   ],
-  "bin": "./bin/lget.js",
+  "bin": "./bin/aget.js",
   "author": "Laurelianae <elerianae@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -29,5 +29,5 @@
     "request": "^2.87.0",
     "request-progress": "^3.0.0"
   },
-  "repository": "github:soundofdarkness/lget"
+  "repository": "github:soundofdarkness/aget"
 }

@@ -5,15 +5,15 @@
 ## Install
 
 ```bash
-$ npm install -g lget
+$ npm install -g aget
 ```
 
 ## Usage
 
 ```bash
-$ lget
+$ aget
 
-  Usage: lget <options> [url]
+  Usage: aget <options> [url]
 
   Options:
 
