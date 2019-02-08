@@ -19,14 +19,14 @@
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.12.0"
+    "eslint-plugin-import": "^2.16.0"
   },
   "dependencies": {
-    "cli-progress": "^2.0.0",
-    "colors": "^1.3.0",
-    "commander": "^2.15.1",
+    "cli-progress": "^2.1.1",
+    "colors": "^1.3.3",
+    "commander": "^2.19.0",
     "prettysize": "^1.1.0",
-    "request": "^2.87.0",
+    "request": "^2.88.0",
     "request-progress": "^3.0.0"
   },
   "repository": "github:soundofdarkness/aget"
